@@ -7,4 +7,8 @@ public class SomeProgram {
     public void manageRockets() {
         System.out.println("3,2,1");
     }
+
+    public void manageTheSatellite() {
+        // TODO implement
+    }
 }
